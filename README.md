@@ -11,6 +11,12 @@ Notes, cheatsheets and packet/log analysis exercises covering the fundamentals e
 - Linux administration and log analysis
 - Windows event logging, Sysmon and Active Directory
 
+## Exercises
+
+| # | Exercise | Skills |
+| --- | --- | --- |
+| 01 | [Bow River Brewing — "The Flowmeter Driver"](pcap-analysis/01-brewery-incident/) | Wireshark basics, port scan, SSH brute force, HTTP file carving, C2 beaconing |
+
 ## Roadmap
 
 - [ ] Ports & protocols cheatsheet with 'what to look for in an attack'

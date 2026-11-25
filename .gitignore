@@ -17,3 +17,5 @@ __pycache__/
 *.raw
 *.E01
 *.vmdk
+# Allow the small synthetic training captures
+!pcap-analysis/**/*.pcap
