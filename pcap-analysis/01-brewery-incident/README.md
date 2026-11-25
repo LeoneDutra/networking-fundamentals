@@ -1,12 +1,12 @@
-# PCAP 01 — Bow River Brewing: "The Flowmeter Driver"
+# PCAP 01 — Kettle & Cipher Brewing: "The Flowmeter Driver"
 
-**Level:** beginner · **Tools:** Wireshark (or tshark) · **Time:** 2–3 h · **Capture:** [`bow-river-brewing.pcap`](bow-river-brewing.pcap) (745 packets, ~14 min)
+**Level:** beginner · **Tools:** Wireshark (or tshark) · **Time:** 2–3 h · **Capture:** [`kettle-cipher-brewing.pcap`](kettle-cipher-brewing.pcap) (745 packets, ~14 min)
 
-> **Synthetic training data.** I generated this capture for practice. It uses private and documentation-only addresses (RFC 1918 / RFC 5737) and the reserved `.example` domain. The "malware" is a harmless text file with an `MZ` header. No real systems or organizations are involved.
+> **Synthetic training data.** I generated this capture for practice. It uses private and documentation-only addresses (RFC 1918 / RFC 5737) and the reserved `.example` domain. The "malware" is a harmless text file with an `MZ` header. No real systems or organizations are involved; the brewery is fictional and any resemblance to a real business is coincidental.
 
 ## Scenario
 
-Bow River Brewing is a craft brewery in Calgary. Its network is `10.10.20.0/24`:
+Kettle & Cipher Brewing is a craft brewery in Calgary. Its network is `10.10.20.0/24`:
 
 | Host | IP |
 | --- | --- |

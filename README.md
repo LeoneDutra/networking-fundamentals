@@ -15,7 +15,7 @@ Notes, cheatsheets and packet/log analysis exercises covering the fundamentals e
 
 | # | Exercise | Skills |
 | --- | --- | --- |
-| 01 | [Bow River Brewing — "The Flowmeter Driver"](pcap-analysis/01-brewery-incident/) | Wireshark basics, port scan, SSH brute force, HTTP file carving, C2 beaconing |
+| 01 | [Kettle & Cipher Brewing — "The Flowmeter Driver"](pcap-analysis/01-brewery-incident/) | Wireshark basics, port scan, SSH brute force, HTTP file carving, C2 beaconing |
 
 ## Roadmap
 
