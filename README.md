@@ -2,6 +2,15 @@
 
 Notes, cheatsheets and packet/log analysis exercises covering the fundamentals every SOC analyst needs: TCP/IP, Linux, Windows event logging and Active Directory.
 
+## Topics
+- TCP/IP fundamentals, three-way handshake, common ports
+- DNS, DHCP, ARP
+- Routing and switching basics, subnetting, VLANs, NAT
+- Firewall rules and network segmentation
+- Packet capture and protocol analysis with Wireshark and tcpdump
+- Linux administration and log analysis
+- Windows event logging, Sysmon and Active Directory
+
 ## Roadmap
 
 - [ ] Ports & protocols cheatsheet with 'what to look for in an attack'
@@ -13,11 +22,18 @@ Notes, cheatsheets and packet/log analysis exercises covering the fundamentals e
 
 ```
 cheatsheets/
+topologies/      # EVE-NG / GNS3 lab topologies
+configs/         # device and firewall configs used in the labs
+lab-guides/      # step-by-step lab guides
 pcap-analysis/
 linux/
 windows-ad/
 scripts/
 ```
+
+## Notes
+
+Topologies can be used in EVE-NG, GNS3 or similar platforms. This repo replaces my earlier `network-fundamentals-lab`.
 
 ## Skills demonstrated
 
